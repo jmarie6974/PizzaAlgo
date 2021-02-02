@@ -1,0 +1,5 @@
+1. Decide to order the pizza
+2. What kind of pizza
+3. Place the order
+4. Pay for the pizza over the phone
+5. Pizz is delivered
